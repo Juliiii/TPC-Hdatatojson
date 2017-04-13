@@ -3,7 +3,7 @@
 
 ## Datatype
 TPC-H生成的数据格式<br>
-![Alt text](./images/datatype.png)
+![Alt text](./images/datatype.png)<br>
 我们的需要的数据格式<br>
 ![Alt text](./images/datatype2.png)
 
