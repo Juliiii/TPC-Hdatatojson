@@ -2,9 +2,9 @@
 一个数据库实验的作业。先用tpc-h生成8个表的数据，再把这些数据转成json的格式，然后导入数据库中，完成一些查询操作。
 
 ## Datatype
-TPC-H生成的数据格式
+TPC-H生成的数据格式<br>
 ![Alt text](./images/datatype.png)
-我们的需要的数据格式
+我们的需要的数据格式<br>
 ![Alt text](./images/datatype2.png)
 
 ## How to use
